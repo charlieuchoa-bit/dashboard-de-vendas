@@ -1,0 +1,68 @@
+# Dashboard de Vendas – Excel
+
+## 📊 Sobre o Projeto
+Este projeto consiste na criação de um **dashboard de vendas no Excel**, desenvolvido como parte de um desafio prático da DIO, com foco na **organização, análise e visualização de dados** para apoio à tomada de decisão.
+
+O objetivo principal foi transformar dados brutos em **informações visuais claras, objetivas e acionáveis**, aplicando boas práticas de Business Intelligence (BI).
+
+---
+
+## 🎯 Objetivos
+- Organizar dados de vendas de forma estruturada
+- Criar cálculos e métricas relevantes para análise
+- Desenvolver um dashboard visual e intuitivo
+- Aplicar boas práticas de separação entre dados, cálculos e visualização
+
+---
+
+## 🗂️ Estrutura do Arquivo
+O projeto foi organizado seguindo uma metodologia que pode ser aplicada em diferentes ferramentas de BI:
+
+- **Assets**  
+  Elementos de apoio visual, como cores, referências e organização estética.
+
+- **Bases**  
+  Base de dados original utilizada no projeto, conforme fornecida no desafio.
+
+- **Cálculos**  
+  Área dedicada à criação de métricas, indicadores e tratamentos necessários para a análise.
+
+- **Dashboard**  
+  Painel visual final, reunindo gráficos e indicadores para análise do desempenho de vendas.
+
+Essa separação garante melhor legibilidade, manutenção e escalabilidade do projeto.
+
+---
+
+## 📈 Principais Análises
+O dashboard permite:
+- Visualizar o desempenho de vendas ao longo do tempo
+- Comparar resultados por categorias
+- Identificar padrões e tendências de vendas
+- Apoiar decisões baseadas em dados de forma rápida e visual
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+- Microsoft Excel
+- Tabelas dinâmicas
+- Gráficos
+- Estruturação lógica de dados e métricas
+
+---
+
+## 📁 Arquivos do Repositório
+- `trabalho nanda dashboard.xlsx` – Arquivo Excel com o dashboard completo
+- `README.md` – Documentação do projeto
+
+---
+
+## ▶️ Como Reproduzir
+1. Faça o download do arquivo `.xlsx`
+2. Abra no Microsoft Excel
+3.navegue pela aba **Dashboard** para entender o fluxo de dados e análises
+
+---
+
+## ✨ Considerações Finais
+Este projeto demonstra a aplicação prática de conceitos de análise de dados e visualização, reforçando a importância da organização e clareza na construção de dashboards voltados ao negócio.
